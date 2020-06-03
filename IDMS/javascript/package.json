@@ -1,0 +1,16 @@
+{
+  "name": "idms",
+  "version": "1.0.0",
+  "description": "Identity Management System Application in JavaScript ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Saroj Shrestha",
+  "license": "ISC",
+  "dependencies": {
+    "fabric-ca-client": "^1.4.8",
+    "fabric-client": "^1.4.8",
+    "fabric-network": "^1.4.8"
+  }
+}

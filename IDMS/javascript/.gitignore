@@ -1,0 +1,27 @@
+
+
+
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+
+lib-cov
+
+
+.nyc_output
+
+
+build/Release
+
+node_modules/
+jspm_packages/
+
+.npm
+
+.env
+
+wallet
+!wallet/.gitkeep
